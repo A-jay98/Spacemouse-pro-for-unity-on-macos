@@ -22,7 +22,7 @@ A Unity Editor plugin that brings full 6DOF SpaceMouse Pro navigation to the Uni
 2. Click the **+** button → **Add package from git URL**
 3. Enter:
    ```
-   https://github.com/figgy78/Spacemouse-pro-for-unity-on-macos.git#upm
+   https://github.com/A-jay98/Spacemouse-pro-for-unity-on-macos.git#upm
    ```
 4. Click **Add**
 
